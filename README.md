@@ -29,8 +29,8 @@ Rita Jmanagile (2094913)
 To run this project, clone the repository and install the required dependencies using pip.
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/ThapeloGithub/Grid2Op-Reinforcement-Learning-Project
+cd Grid2Op-Reinforcement-Learning-Project
 pip install -r requirements.txt
 ```
 
