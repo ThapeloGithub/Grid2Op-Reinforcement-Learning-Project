@@ -55,7 +55,7 @@ The code is designed to be run in a Google Colab notebook. Make sure to upload t
 # Project structure
 ThapeloGithub/Grid2Op-Reinforcement-Learning-Project
 
-├── main_notebook.ipynb  # Main Colab notebook with code for SAC and PPO\
+├── sac&ppo.ipynb  # Main Colab notebook with code for SAC and PPO\
 ├── ppo_grid2op_agent.pth # Saved model for PPO\
 ├── ppo_grid2op_agent_combined.pth # Combined agent model for evaluation\
 └── requirements.txt       # List of required Python packages
