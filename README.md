@@ -55,12 +55,16 @@ The code is designed to be run in a Google Colab notebook. Make sure to upload t
 # Project structure
 ThapeloGithub/Grid2Op-Reinforcement-Learning-Project
 
-├── SAC&PPO
-    ├──plots
-    ├──files
-        ├──sac&ppo.ipynb
-        ├──env.py
-└── requirements.txt       # List of required Python packages
+# Project Directory Structure
+
+```plaintext
+SAC&PPO
+├── plots
+└── files
+    ├── sac&ppo.ipynb
+    └── env.py
+└── requirements.txt  # List of required Python packages
+```
 
 # Evaluation
 The performance of the agents will be evaluated based on the Combined Reward, which aims to maximize the flow of power through the grid while ensuring the N-1 reliability criterion is met.
