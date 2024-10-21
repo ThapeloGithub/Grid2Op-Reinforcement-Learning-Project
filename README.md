@@ -62,8 +62,16 @@ SAC&PPO
 ├── plots
 └── files
     ├── sac&ppo.ipynb
-    └── env.py
+    ├── env.py
+    └── run_sac_ppo.py
 └── requirements.txt  # List of required Python packages
+```
+## Running the SAC & PPO Script
+
+To run the `sac&ppo.ipynb` notebook programmatically, you can use the following command:
+
+```bash
+python files/run_sac_ppo.py
 ```
 
 # Evaluation
