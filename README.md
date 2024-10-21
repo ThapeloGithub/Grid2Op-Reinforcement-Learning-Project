@@ -74,7 +74,7 @@ SAC&PPO
 To run the `sac&ppo.ipynb` notebook programmatically, you can use the following command:
 
 ```bash
-python files/run_sac_ppo.py
+python SAC&PPO/files/run_sac_ppo.py
 ```
 
 # Evaluation
