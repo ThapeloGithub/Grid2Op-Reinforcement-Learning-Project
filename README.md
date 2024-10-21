@@ -56,10 +56,10 @@ The code is designed to be run in a Google Colab notebook. Make sure to upload t
 ThapeloGithub/Grid2Op-Reinforcement-Learning-Project
 
 ├── SAC&PPO
-    └──plots
-    └──files
-        └──sac&ppo.ipynb
-        └──env.py
+    ├──plots
+    ├──files
+        ├──sac&ppo.ipynb
+        ├──env.py
 └── requirements.txt       # List of required Python packages
 
 # Evaluation
