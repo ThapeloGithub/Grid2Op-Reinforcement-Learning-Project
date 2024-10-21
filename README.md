@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 # Dependencies
 The following packages are required to run this project:
-
+```bash
 torch
 
 torchvision
@@ -50,6 +50,7 @@ grid2op
 matplotlib
 
 stable-baselines3
+```
 # Usage 
 The code is designed to be run in a Google Colab notebook. Make sure to upload the necessary scripts and data files to your Colab environment before executing the code.
 # Project structure
