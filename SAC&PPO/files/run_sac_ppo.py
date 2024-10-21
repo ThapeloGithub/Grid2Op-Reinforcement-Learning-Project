@@ -21,5 +21,5 @@ def run_notebook(notebook_path):
 
 if __name__ == "__main__":
 
-    notebook_path = "files/sac&ppo.ipynb"
+    notebook_path = "SAC&PPO/files/sac&ppo.ipynb"
     run_notebook(notebook_path)
