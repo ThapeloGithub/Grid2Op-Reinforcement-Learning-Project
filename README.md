@@ -25,6 +25,8 @@ Thapelo Mafabatho Harvey (1744565)
 
 Rita Jmanagile (2094913)
 
+Nthabiseng Mabetlela (1828559)
+
 # Installation
 To run this project, clone the repository and install the required dependencies using pip.
 
